@@ -1,3 +1,5 @@
+#NOVA MODIFICAÇÃO
+
 typedef struct tic_tac_toe
 {
     int tabela[3][3];
